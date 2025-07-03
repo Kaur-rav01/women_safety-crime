@@ -35,5 +35,5 @@ A **Streamlit dashboard** that visualizes crime statistics affecting women acros
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Kaur-rav01/women-safety-dashboard.git
-cd women-safety-dashboard
+git clone https://github.com/Kaur-rav01/women_safety-crime.git
+cd women_safety-crime
